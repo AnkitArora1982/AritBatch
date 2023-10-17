@@ -8,6 +8,7 @@ public class HomeController {
 
 	@RequestMapping(value = "/home")
 	public String home() {
+		//first change by sts....
 		return "Homeeeee";
 	}
 	
